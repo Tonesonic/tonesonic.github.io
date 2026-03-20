@@ -5,6 +5,6 @@
 Side Projects
 <p><strong>Tonesonic Distribution</strong>: This is an automated Record Label for Hypercore Music. 
 You submit a song on our website, and we release it to <a href="https://spotify.com" target="_blank">Spotify</a> and 
-<a href="https://youtube.com/@tonesedm" target="_blank">this YouTube channel</a>, no contracts, no payments, just drop an mp3!</p>
+<a href="https://www.youtube.com/channel/UCJvWjTfIVfukWN5z2-uCU6w/about" target="_blank">this YouTube channel</a>, no contracts, no payments, just drop an mp3!</p>
 <p><a href="https://tonesonic.github.io/distribution" target="_blank">Learn more about Tonesonic Distribution</a></p>
 <p>&copy; 2026 Tonesonic LLC. All rights reserved.</p>
